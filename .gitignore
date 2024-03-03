@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# build folder
+build/
+
+# pycache
+__pycache__/
+
+# distribution folder
+dist/
+
+# .egg-info
+*.egg-info/
